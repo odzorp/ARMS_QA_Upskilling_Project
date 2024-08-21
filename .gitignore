@@ -1,0 +1,10 @@
+# Cypress specific files and folders  
+cypress/videos/  
+cypress/screenshots/  
+
+# Node modules  
+node_modules/  
+
+# Other temporary files or folders
+package-lock.json
+package.json
