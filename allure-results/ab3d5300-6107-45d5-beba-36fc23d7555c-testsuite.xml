@@ -1,0 +1,71 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1724239050693' stop='1724239059064'>
+    <name>PageObjectTest</name>
+    <title>PageObjectTest</title>
+    <test-cases>
+        <test-case start='1724239053681' status='passed' stop='1724239054669'>
+            <name>LoginTest</name>
+            <title>LoginTest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239054678' status='passed' stop='1724239055174'>
+            <name>Adds the first three items to the cart and verifies the cart count</name>
+            <title>Adds the first three items to the cart and verifies the cart count</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239055176' status='passed' stop='1724239055372'>
+            <name>Remove Third Item from Cart</name>
+            <title>Remove Third Item from Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239055375' status='passed' stop='1724239058050'>
+            <name>Verify Required Fields on Checkout</name>
+            <title>Verify Required Fields on Checkout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239058051' status='passed' stop='1724239058881'>
+            <name>Complete Checkout</name>
+            <title>Complete Checkout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239058881' status='passed' stop='1724239058917'>
+            <name>Verify Sum of Item Prices Matches The Total on The Checkout Overview Page</name>
+            <title>Verify Sum of Item Prices Matches The Total on The Checkout Overview Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239058920' status='passed' stop='1724239059041'>
+            <name>Verify Total Amount Including Tax</name>
+            <title>Verify Total Amount Including Tax</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239059042' status='passed' stop='1724239059064'>
+            <name>Complete Order and Verify Success</name>
+            <title>Complete Order and Verify Success</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

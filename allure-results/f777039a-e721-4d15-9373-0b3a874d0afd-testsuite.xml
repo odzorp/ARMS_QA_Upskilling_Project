@@ -1,0 +1,55 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1724239061742' stop='1724239074146'>
+    <name>SauceDemoTest</name>
+    <title>SauceDemoTest</title>
+    <test-cases>
+        <test-case start='1724239063032' status='passed' stop='1724239066903'>
+            <name>LoginTest</name>
+            <title>LoginTest</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239066909' status='passed' stop='1724239067240'>
+            <name>Adds the first three items to the cart and verifies the cart count</name>
+            <title>Adds the first three items to the cart and verifies the cart count</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239067241' status='passed' stop='1724239070491'>
+            <name>Remove Third Item from Cart</name>
+            <title>Remove Third Item from Cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239070495' status='passed' stop='1724239073279'>
+            <name>Verify Required Fields on Checkout</name>
+            <title>Verify Required Fields on Checkout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239073280' status='passed' stop='1724239074119'>
+            <name>Complete Checkout</name>
+            <title>Complete Checkout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1724239074121' status='passed' stop='1724239074145'>
+            <name>Verify Sum of Item Prices Matches The Total on The Checkout Overview Page</name>
+            <title>Verify Sum of Item Prices Matches The Total on The Checkout Overview Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
